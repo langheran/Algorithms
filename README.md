@@ -1,2 +1,2 @@
 # Algorithms
-My repository of common algorithm implementations.
+My repository of solved algorithm problems.
