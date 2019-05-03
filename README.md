@@ -3,9 +3,9 @@ My repository of solved algorithm problems.
 
 ## Problem Solving
 
-- [Stock Maximize](stock-maximize.py)
-- [The Maximum Subarray](maximum-subarray.py)
-- [Fibonacci Modified](fibonacci-modified.py)
-- [The Coin Change Problem](the-coin-change-problem.py)
-- [Almost Sorted](almost-sorted.py)
+- [Stock Maximize](Problem Solving/stock-maximize.py)
+- [The Maximum Subarray](Problem Solving/maximum-subarray.py)
+- [Fibonacci Modified](Problem Solving/fibonacci-modified.py)
+- [The Coin Change Problem](Problem Solving/the-coin-change-problem.py)
+- [Almost Sorted](Problem Solving/almost-sorted.py)
 
