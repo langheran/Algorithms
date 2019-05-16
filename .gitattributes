@@ -1,2 +1,4 @@
 *.py linguist-vendored
 *.bat linguist-vendored
+*.ipynb linguist-vendored
+*.rmd linguist-vendored
